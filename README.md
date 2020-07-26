@@ -10,3 +10,12 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 ![](https://github.com/diannejardinez/big-data-challenge/blob/master/Images/Outdoors-Table-Query/Outdoors-Schema-all_tables.png)
 - Load
 ![](https://github.com/diannejardinez/big-data-challenge/blob/master/Images/Outdoors-Table-Query/Outdoors-RDS-all_tables.png)
+
+
+
+### ETL: Digital Video Games Dataset
+- Extracted: 145431 number of records
+- Transformed
+![](https://github.com/diannejardinez/big-data-challenge/blob/master/Images/Digital_Video_Games-Table-Query/Video_games-Schema-all_tables.png)
+- Load
+![](https://github.com/diannejardinez/big-data-challenge/blob/master/Images/Digital_Video_Games-Table-Query/Video_games-RDS-all_tables.png)
