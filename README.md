@@ -1,4 +1,4 @@
-# ETL: Big Data - PySpark & AWS's Relational Databases
+# ETL on Big Data - PySpark & AWS's Relational Databases
 
 **Objective**:
 
@@ -9,4 +9,4 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 - Transformed
 ![]()
 - Load
-![]()
+![](https://github.com/diannejardinez/big-data-challenge/blob/master/Images/RDS-all_tables.png)
