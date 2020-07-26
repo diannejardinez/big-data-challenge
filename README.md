@@ -1,6 +1,6 @@
 # ETL on Big Data - PySpark & AWS's Relational Databases
 
-**Objective**:
+**Level 1 Objective**:
 
 Perform ETL process completely in the cloud and upload a DataFrame to an RDS instance by creating 4 DataFrames to match production-ready tables from two big Amazon customer review datasets
 
