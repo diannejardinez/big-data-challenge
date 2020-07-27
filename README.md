@@ -51,12 +51,13 @@
 
 
 
-**Additional Analysis**: 
+**Additional**: 
 - Vine customers with the top helpful votes provided 1-2 reviews with their first as the highest, and second as lowest. Non-Vine customers made more reviews. These results match the intention of the Vine program where there is a limited number of members and their rank/ability to stay as a Vine member is by their helpful votes score
 
 - Products from top and low star ratings from Non-Vine customers were not found in product reviews from Vine customers
 
 - Data on star ratings and Vine/Non-Vine customers only looked into three products with the highest helpful votes for each type of customer, this was executed due to helpful votes being a quantifiable metric where customers can gauged as to whether a review seems to be an accurate description of the product and the product experience
 
+- Future research would be to examine Amazon's most recommended products and whether this statement influences ratings or product purchase
 
 
