@@ -29,9 +29,7 @@
 
 ### Outdoors Dataset
 
-**Overall Analysis**:
-
-Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers(when looking at extreme rating scores of 5 and 1.) In-depth Analysis on Outdoors dataset was performed due to Digital Video Games not having any Vine customers documented. 
+**Overall Analysis**: Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers(when looking at extreme rating scores of 5 and 1.) In-depth Analysis on Outdoors dataset was performed due to Digital Video Games not having any Vine customers documented. 
 
 
 **Summary Analysis**: 
