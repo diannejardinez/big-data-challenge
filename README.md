@@ -26,10 +26,12 @@
 ## Level 2 
 
 **Objective**: 
+
 Analyze whether reviews from Amazon's Vine program are trustworthy. In-depth Analysis was made on Outdoors dataset due to Digital Video Games not having any Vine customers documented
 
 **Overall Analysis**:
-Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers. The program states they encourage those in the program to give honest reviews, but giving a rating of 1 or 5 seems to play a part on whether Non-Vine Customers rate the same way 
+
+Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers(when looking at extreme rating scores of 5 and 1.)
 
 
 **Summary Analysis**: 
@@ -45,9 +47,10 @@ Amazon's Vine program reviews should be met with caution. Though customers in th
 | Reviews created*      | 1-2                            | \~200+             |
 
 *VC: Vine Customer*, 
-*NV: Non-Vine Customer*
-
+*NV: Non-Vine Customer*.
 *Customer reviews from the top three helpful voting scores* 
+
+
 
 
 **Additional Analysis**: 
