@@ -28,17 +28,32 @@
 **Objective**: 
 Analyze whether reviews from Amazon's Vine program are trustworthy. In-depth Analysis was made on Outdoors dataset due to Digital Video Games not having any Vine customers documented
 
+**Overall Analysis**:
+Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers. The program states they encourage those in the program to give honest reviews, but giving a rating of 1 or 5 seems to play a part on whether Non-Vine Customers rate the same way 
 
 
+Summary Analysis: 
 |                       | Vine Customer                  | Non-Vine Customer  |
 | -------------         | -------------                  | -------------      |
 | Number                | 3137                           | 2299036            | 
 | Percentage            | 0.14%                          | 99.86%             | 
-| Aveerage star rating  | 4.37                           | 4.24               |
+| Average star rating   | 4.37                           | 4.24               |
 | Top Product of VC*    | ---                            | Same score as VC   |
 | Low Product of VC*    | ---                            | Same score as VC   |
 | Top Product of NV*    | Not purchased                  | ---                |
 | Low Product of NV*    | Not rated/purchased            | ---                |
+| Reviews created       | 1-2                            | \~200+             |
 
 *VC: Vine Customer*, 
 *NV: Non-Vine Customer*
+
+
+**Additional Analysis**: 
+- Vine customers with the top helpful votes provided 1-2 reviews with their first as the highest, and second as lowest. Non-Vine customers made more reviews. These results match the intention of the Vine program where there is a limited number of members and their rank/ability to stay as a Vine member is by their helpful votes score
+
+- Products from top and low star ratings from Non-Vine customers were not found in product reviews from Vine customers
+
+- Top and low star ratings only looked into three products with the highest helpful votes for each type of customer, this was executed due to helpful votes being a quantifiable metric where customers can gauged as to whether a review seems to be an accurate description of the product and the product experience
+
+
+
