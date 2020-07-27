@@ -28,15 +28,15 @@ Analyze whether reviews from Amazon's Vine program are trustworthy. In-depth Ana
 
 
 
-|    | Vine Customer | Non-Vine Customer  |
-| -------------     | ------------- | -------------      |
-| Number            | 3137          | 2299036            | 
-| Percentage        | 0.14%         | 99.86%             | 
-| Aveerage star rating  | 4.37          | 4.24               |
-| Top Product of VC*| ---           | Same score as VC   |
-| Low Product of VC*| Same score as VC/not purchased | Same score as VC   |
-| Top Product of NV*| Not rated/purchased         | Same score as VC   |
-| Low Product of NV*| Not rated/purchased | --- |
+|                       | Vine Customer                  | Non-Vine Customer  |
+| -------------         | -------------                  | -------------      |
+| Number                | 3137                           | 2299036            | 
+| Percentage            | 0.14%                          | 99.86%             | 
+| Aveerage star rating  | 4.37                           | 4.24               |
+| Top Product of VC*    | ---                            | Same score as VC   |
+| Low Product of VC*    | ---                            | Same score as VC   |
+| Top Product of NV*    | Not purchased                  | ---                |
+| Low Product of NV*    | Not rated/purchased            | ---                |
 
-*VC: Vine Customer*
+*VC: Vine Customer*, 
 *NV: Non-Vine Customer*
