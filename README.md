@@ -32,7 +32,7 @@ Analyze whether reviews from Amazon's Vine program are trustworthy. In-depth Ana
 Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers. The program states they encourage those in the program to give honest reviews, but giving a rating of 1 or 5 seems to play a part on whether Non-Vine Customers rate the same way 
 
 
-Summary Analysis: 
+**Summary Analysis**: 
 |                       | Vine Customer                  | Non-Vine Customer  |
 | -------------         | -------------                  | -------------      |
 | Number                | 3137                           | 2299036            | 
@@ -42,10 +42,12 @@ Summary Analysis:
 | Low Product of VC*    | ---                            | Same score as VC   |
 | Top Product of NV*    | Not purchased                  | ---                |
 | Low Product of NV*    | Not rated/purchased            | ---                |
-| Reviews created       | 1-2                            | \~200+             |
+| Reviews created*      | 1-2                            | \~200+             |
 
 *VC: Vine Customer*, 
 *NV: Non-Vine Customer*
+
+*Customer reviews from the top three helpful voting scores* 
 
 
 **Additional Analysis**: 
