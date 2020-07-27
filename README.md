@@ -1,8 +1,8 @@
 # ETL on Big Data - PySpark & AWS's Relational Databases
 
-## Level 1 Objective:
+## Level 1
 
-Perform ETL process completely in the cloud and upload a DataFrame to an RDS instance by creating 4 DataFrames to match production-ready tables from two big Amazon customer review datasets
+**Objective**: Perform ETL process completely in the cloud and upload a DataFrame to an RDS instance by creating 4 DataFrames to match production-ready tables from two big Amazon customer review datasets
 
 ### ETL: Outdoors Dataset
 - Extracted: 2,302,173 number of records
@@ -23,7 +23,9 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 
 
 
-## Level 2 Objective: 
+## Level 2 
+
+**Objective**: 
 Analyze whether reviews from Amazon's Vine program are trustworthy. In-depth Analysis was made on Outdoors dataset due to Digital Video Games not having any Vine customers documented
 
 
