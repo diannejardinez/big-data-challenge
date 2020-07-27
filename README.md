@@ -53,7 +53,7 @@ Summary Analysis:
 
 - Products from top and low star ratings from Non-Vine customers were not found in product reviews from Vine customers
 
-- Top and low star ratings only looked into three products with the highest helpful votes for each type of customer, this was executed due to helpful votes being a quantifiable metric where customers can gauged as to whether a review seems to be an accurate description of the product and the product experience
+- Data on star ratings and Vine/Non-Vine customers only looked into three products with the highest helpful votes for each type of customer, this was executed due to helpful votes being a quantifiable metric where customers can gauged as to whether a review seems to be an accurate description of the product and the product experience
 
 
 
