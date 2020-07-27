@@ -25,11 +25,13 @@
 
 ## Level 2 
 
-**Objective**: Analyze whether reviews from Amazon's Vine program are trustworthy. In-depth Analysis was made on Outdoors dataset due to Digital Video Games not having any Vine customers documented
+**Objective**: Analyze whether reviews from Amazon's Vine program are trustworthy.
+
+### Outdoors Dataset
 
 **Overall Analysis**:
 
-Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers(when looking at extreme rating scores of 5 and 1.)
+Amazon's Vine program reviews should be met with caution. Though customers in this program may be small, their reviews are mirrored by Non-Vine customers(when looking at extreme rating scores of 5 and 1.) In-depth Analysis on Outdoors dataset was performed due to Digital Video Games not having any Vine customers documented. 
 
 
 **Summary Analysis**: 
