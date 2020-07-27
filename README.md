@@ -35,9 +35,8 @@ Analyze whether reviews from Amazon's Vine program are trustworthy. In-depth Ana
 | Aveerage star rating  | 4.37          | 4.24               |
 | Top Product of VC*| ---           | Same score as VC   |
 | Low Product of VC*| Same score as VC/not purchased | Same score as VC   |
-| Top Product of NV*| ---           | Same score as VC   |
-| Low Product of NV*| Not rated/purchased | Not rated/purchased |
+| Top Product of NV*| Not rated/purchased         | Same score as VC   |
+| Low Product of NV*| Not rated/purchased | --- |
 
 *VC: Vine Customer*
-
 *NV: Non-Vine Customer*
