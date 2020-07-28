@@ -46,7 +46,8 @@
 
 *VC: Vine Customer*, 
 *NV: Non-Vine Customer*.
-*Customer reviews from the top three helpful voting scores frm 1 and 5 star ratings* 
+
+*Customer reviews from the top three helpful voting scores from 1 and 5 star ratings* 
 
 
 
