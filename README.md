@@ -93,7 +93,7 @@ There are two levels to this homework assignment. The second level is optional b
 
   * Count the number of records (rows) in the dataset.
 
-  * **Transform** the dataset to fit the tables in the [schema file](../Resources/schema.sql). Be sure the DataFrames match in data type and in column name.
+  * **Transform** the dataset to fit the tables in the schema file. Be sure the DataFrames match in data type and in column name.
 
   * **Load** the DataFrames that correspond to tables into an RDS instance. **Note:** This process can take up to 10 minutes for each. Be sure that everything is correct before uploading.
 
@@ -110,10 +110,6 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 * While there are no hard requirements for the analysis, consider steps you can take to reduce noisy data, e.g., filtering for reviews that meet a certain number of helpful votes, total votes, or both.
 
 
-
-## Resources
-
-[customer review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 - - -
 
